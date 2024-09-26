@@ -1,7 +1,7 @@
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Zane;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Ibrahim" alt="Typing SVG" /></h1>
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
 </div>
 
 <div align="center">
