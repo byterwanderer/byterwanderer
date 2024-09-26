@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 style="padding-left: 50rem"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi!+I'm+Ibrahim" alt="Typing SVG" /></h1>
+    <h1 style="padding-left: 50rem"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi!+I'm+Ibrahim" alt="Typing SVG" /></a></h1>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
 </div>
 
